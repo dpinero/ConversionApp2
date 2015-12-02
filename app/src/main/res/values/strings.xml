@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Frequency and Wavelength Converter</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a value</string>
+    <string name="answer">Answer displays here</string>
+    <string name="position">Position displays here</string>
+    <string name="button_send">Convert</string>
+    <string name="button_send2">Spinner Position</string>
+    <string name="title_activity_display_message">Sum</string>
+    <string name="title_activity_display_picture">Bear</string>
+    <string name="bearpic">wah</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_freqtowave">Frequency to Wavelength</string>
+    <string name="title_activity_wavetofreq">Wavelength to Frequency</string>
+    <string name="freqtowave">Frequency to Wavelength</string>
+    <string name="wavetofreq">Wavelength to Frequency</string>
+
+</resources>
